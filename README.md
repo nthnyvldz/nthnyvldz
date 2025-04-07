@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=nthnyvldz"><img src="https://api.visitorbadge.io/api/visitors?path=nthnyvldz&label=Visitors&countColor=%23263759" /></a>
+</p>
+
+---
+
 ### 🚀 Tech Stack
 
 <div align="center">
