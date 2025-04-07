@@ -22,8 +22,8 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [Portfolio]([https://yourportfolio.com](https://anthony-valdez.vercel.app/))
+- 💼 [Portfolio]([https://yourportfolio.com](https://anthony-valdez.vercel.app/)
 - 📬 [Email](mailto:valdezanthony676@gmail.com)
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/anthony-valdez-0326a9208))
+- 🌐 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/anthony-valdez-0326a9208)
 
 ---
